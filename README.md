@@ -1,6 +1,6 @@
 # Fold public roadmap
 
-View the [public roadmap here](https://github.com/fold-dev/roadmap/issues).
+View the [public roadmap here](https://github.com/orgs/fold-dev/projects/8/views/2).
 
 Our roadmap serves as the definitive guide for discovering upcoming features and enhancements across all our products, including Pro, Core, documentation, and more.  
 
